@@ -2993,13 +2993,41 @@
         "version": "8ce92b8a478271565e4985783c4c40fff7d3d3010d77bb9f887a47cca6d976df",
         "signature": "84857f33808fe263d9e213a6326cd2a31c39408b40d0cd62f8fef691186194aa"
       },
+      "e:/dev/chat-backend/src/favories/interface/favories.interface.ts": {
+        "version": "7c92e22df824f737fb35fba98739663285a4ee05d170c867db215a9b64a23a74",
+        "signature": "2d20370c2e1102db79ed1cabb44011d4d55c9b6e5a71e5d022ced04121afadfc"
+      },
+      "e:/dev/chat-backend/src/favories/dto/create-favories.dto.ts": {
+        "version": "09fb263d6eb90b45428f080e2c88ea6ea29e20661a473dcc82f302b2248c4efc",
+        "signature": "4808ee89615757301f58145b9a9cd03aefb05db416efca2581369c9c4a5f88f2"
+      },
+      "e:/dev/chat-backend/src/favories/favories.service.ts": {
+        "version": "dcd8addd5dbcc12c47d959fed43099d6fe4aec4ea39783e353e12ce73d43db69",
+        "signature": "de0e158f32cd034ae4c311f8c6dec3611bde8f05ae549caf346784271d7ce45c"
+      },
+      "e:/dev/chat-backend/src/favories/favories.controller.ts": {
+        "version": "d0ac87cec679a9a1b39132e198d222579bed25a5a7fe7cc676f022b1cfe7c64b",
+        "signature": "603d3deb0ba5e8528e357d76e409b1bb5176bfca318ae47bba8d10edf5395322"
+      },
+      "e:/dev/chat-backend/src/favories/schemas/favories.schema.ts": {
+        "version": "1b92955ac74d0eca3b95e3fd87f3f5835d171aea3aea91d9ad7739b922839e3e",
+        "signature": "442b228dbf4804fcc0d9e5f93b3829b5fa3a20008d8bd8cf4bdc3aac176f41c7"
+      },
+      "e:/dev/chat-backend/src/favories/favories.module.ts": {
+        "version": "ac188e7f418708f5099ecad5e8f3346a917cbd0b6274f93dc5520469f308f697",
+        "signature": "0857b84c9214206949a7b078860e6c55f139111079363efd67ceb09ce2ec8aa3"
+      },
       "e:/dev/chat-backend/src/app.module.ts": {
-        "version": "f7d533599bd98f3bf9a4501951e8c14e3455a0165e05124c233b13d05452579c",
+        "version": "4cd78b743297baedab31b85d1088af9ef5824e2ad067ad773c2c7b32e4064491",
         "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88"
       },
       "e:/dev/chat-backend/src/main.ts": {
         "version": "3c8967198a459fe0868276c735fb4ecbe75c3ed2bbda02d4dcee787c5c448528",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
+      },
+      "e:/dev/chat-backend/src/favories/favories.resolver.ts": {
+        "version": "874fbb561f3e5913e3ed1cd6696924c8e075aba367a079be173e727d0e0c4fb0",
+        "signature": "15040cbe54f45d406927e88a6636090da582659ecb8ae1bb9fe2ba4155a38912"
       },
       "e:/dev/chat-backend/node_modules/@types/yargs-parser/index.d.ts": {
         "version": "28859573ae17b101969fe3334fc622df7c48662da79efc7660953bde56520103",
@@ -9852,6 +9880,60 @@
         "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
         "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "e:/dev/chat-backend/src/favories/interface/favories.interface.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/dto/create-favories.dto.ts": [
+        "e:/dev/chat-backend/node_modules/type-graphql/dist/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/favories.service.ts": [
+        "e:/dev/chat-backend/node_modules/@nestjs/common/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@nestjs/mongoose/index.d.ts",
+        "e:/dev/chat-backend/src/favories/interface/favories.interface.ts",
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts",
+        "e:/dev/chat-backend/src/favories/dto/create-favories.dto.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/favories.controller.ts": [
+        "e:/dev/chat-backend/node_modules/@nestjs/common/index.d.ts",
+        "e:/dev/chat-backend/src/favories/favories.service.ts",
+        "e:/dev/chat-backend/src/favories/interface/favories.interface.ts",
+        "e:/dev/chat-backend/src/favories/dto/create-favories.dto.ts",
+        "e:/dev/chat-backend/node_modules/typescript/lib/typescript.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/schemas/favories.schema.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/favories.module.ts": [
+        "e:/dev/chat-backend/node_modules/@nestjs/common/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@nestjs/mongoose/index.d.ts",
+        "e:/dev/chat-backend/src/favories/favories.controller.ts",
+        "e:/dev/chat-backend/src/favories/favories.service.ts",
+        "e:/dev/chat-backend/src/favories/schemas/favories.schema.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "e:/dev/chat-backend/src/app.module.ts": [
         "e:/dev/chat-backend/node_modules/@nestjs/common/index.d.ts",
         "e:/dev/chat-backend/src/app.controller.ts",
@@ -9863,6 +9945,7 @@
         "e:/dev/chat-backend/src/cats/cats.module.ts",
         "e:/dev/chat-backend/src/users/users.module.ts",
         "e:/dev/chat-backend/src/messages/messages.module.ts",
+        "e:/dev/chat-backend/src/favories/favories.module.ts",
         "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
         "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
         "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
@@ -9871,6 +9954,15 @@
       "e:/dev/chat-backend/src/main.ts": [
         "e:/dev/chat-backend/node_modules/@nestjs/core/index.d.ts",
         "e:/dev/chat-backend/src/app.module.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/favories.resolver.ts": [
+        "e:/dev/chat-backend/node_modules/type-graphql/dist/index.d.ts",
+        "e:/dev/chat-backend/src/favories/favories.service.ts",
+        "e:/dev/chat-backend/src/favories/dto/create-favories.dto.ts",
         "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
         "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
         "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
@@ -17234,6 +17326,24 @@
         "e:/dev/chat-backend/src/messages/messages.service.ts",
         "e:/dev/chat-backend/src/messages/inputs/messages.input.ts"
       ],
+      "e:/dev/chat-backend/src/favories/interface/favories.interface.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/favories.service.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts",
+        "e:/dev/chat-backend/src/favories/interface/favories.interface.ts",
+        "e:/dev/chat-backend/src/favories/dto/create-favories.dto.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/favories.controller.ts": [
+        "e:/dev/chat-backend/src/favories/favories.service.ts",
+        "e:/dev/chat-backend/src/favories/interface/favories.interface.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/schemas/favories.schema.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts"
+      ],
+      "e:/dev/chat-backend/src/favories/favories.resolver.ts": [
+        "e:/dev/chat-backend/src/favories/favories.service.ts"
+      ],
       "e:/dev/chat-backend/node_modules/@types/yargs-parser/index.d.ts": [
         "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
         "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
@@ -18991,6 +19101,7 @@
       "e:/dev/chat-backend/node_modules/type-graphql/dist/index.d.ts",
       "e:/dev/chat-backend/src/users/dto/create-user.dto.ts",
       "e:/dev/chat-backend/src/users/users.service.ts",
+      "e:/dev/chat-backend/src/users/users.controller.ts",
       "e:/dev/chat-backend/node_modules/@nestjs/graphql/dist/external/type-graphql.types.d.ts",
       "e:/dev/chat-backend/node_modules/@nestjs/graphql/dist/decorators/args.decorator.d.ts",
       "e:/dev/chat-backend/node_modules/@nestjs/graphql/dist/decorators/context.decorator.d.ts",
@@ -19237,6 +19348,7 @@
       "e:/dev/chat-backend/src/cats/cats.module.ts",
       "e:/dev/chat-backend/src/users/schemas/user.schema.ts",
       "e:/dev/chat-backend/src/users/users.resolver.ts",
+      "e:/dev/chat-backend/src/users/users.module.ts",
       "e:/dev/chat-backend/src/messages/messages.controller.ts",
       "e:/dev/chat-backend/src/messages/interfaces/message.interface.ts",
       "e:/dev/chat-backend/src/messages/dto/create-message.dto.ts",
@@ -19245,7 +19357,14 @@
       "e:/dev/chat-backend/src/messages/schemas/message.schema.ts",
       "e:/dev/chat-backend/src/messages/messages.resolver.ts",
       "e:/dev/chat-backend/src/messages/messages.module.ts",
+      "e:/dev/chat-backend/src/favories/interface/favories.interface.ts",
+      "e:/dev/chat-backend/src/favories/dto/create-favories.dto.ts",
+      "e:/dev/chat-backend/src/favories/favories.service.ts",
+      "e:/dev/chat-backend/src/favories/favories.controller.ts",
+      "e:/dev/chat-backend/src/favories/schemas/favories.schema.ts",
+      "e:/dev/chat-backend/src/app.module.ts",
       "e:/dev/chat-backend/src/main.ts",
+      "e:/dev/chat-backend/src/favories/favories.resolver.ts",
       "e:/dev/chat-backend/node_modules/@types/yargs-parser/index.d.ts",
       "e:/dev/chat-backend/node_modules/@types/yargs/index.d.ts",
       "e:/dev/chat-backend/node_modules/@nestjs/websockets/adapters/ws-adapter.d.ts",
@@ -19395,9 +19514,7 @@
       "e:/dev/chat-backend/node_modules/@types/webpack-sources/node_modules/source-map/source-map.d.ts",
       "e:/dev/chat-backend/node_modules/@types/webpack-sources/index.d.ts",
       "e:/dev/chat-backend/node_modules/@types/webpack/index.d.ts",
-      "e:/dev/chat-backend/src/users/users.controller.ts",
-      "e:/dev/chat-backend/src/users/users.module.ts",
-      "e:/dev/chat-backend/src/app.module.ts"
+      "e:/dev/chat-backend/src/favories/favories.module.ts"
     ]
   },
   "version": "3.4.5"

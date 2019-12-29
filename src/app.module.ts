@@ -8,6 +8,7 @@ import { GraphQLModule } from '@nestjs/graphql';
 import { CatsModule } from './cats/cats.module';
 import { UsersModule } from './users/users.module';
 import { MessagesModule } from './messages/messages.module';
+import { FavoriesModule } from './favories/favories.module';
 
 @Module({
   imports: [
@@ -18,6 +19,7 @@ import { MessagesModule } from './messages/messages.module';
       autoSchemaFile: 'schema.gql',
     }),
     MessagesModule,
+    FavoriesModule,
   ],
   controllers: [AppController],
   providers: [ AppService],
