@@ -9,6 +9,7 @@ import { CatsModule } from './cats/cats.module';
 import { UsersModule } from './users/users.module';
 import { MessagesModule } from './messages/messages.module';
 import { FavoriesModule } from './favories/favories.module';
+import { GalerieModule } from './galerie/galerie.module';
 
 @Module({
   imports: [
@@ -20,6 +21,7 @@ import { FavoriesModule } from './favories/favories.module';
     }),
     MessagesModule,
     FavoriesModule,
+    GalerieModule,
   ],
   controllers: [AppController],
   providers: [ AppService],

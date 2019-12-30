@@ -3,6 +3,12 @@
 # !!!   DO NOT MODIFY THIS FILE BY YOURSELF   !!!
 # -----------------------------------------------
 
+type CreateGalerieDto {
+  user: String!
+  urlPicture: String!
+  isDelete: Boolean!
+}
+
 type CreateMessageDto {
   id: ID!
   content: String!

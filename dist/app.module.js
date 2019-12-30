@@ -15,6 +15,7 @@ const cats_module_1 = require("./cats/cats.module");
 const users_module_1 = require("./users/users.module");
 const messages_module_1 = require("./messages/messages.module");
 const favories_module_1 = require("./favories/favories.module");
+const galerie_module_1 = require("./galerie/galerie.module");
 let AppModule = class AppModule {
 };
 AppModule = __decorate([
@@ -28,6 +29,7 @@ AppModule = __decorate([
             }),
             messages_module_1.MessagesModule,
             favories_module_1.FavoriesModule,
+            galerie_module_1.GalerieModule,
         ],
         controllers: [app_controller_1.AppController],
         providers: [app_service_1.AppService],

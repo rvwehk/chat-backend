@@ -3017,8 +3017,32 @@
         "version": "ac188e7f418708f5099ecad5e8f3346a917cbd0b6274f93dc5520469f308f697",
         "signature": "0857b84c9214206949a7b078860e6c55f139111079363efd67ceb09ce2ec8aa3"
       },
+      "e:/dev/chat-backend/src/galerie/interface/galerie.interface.ts": {
+        "version": "3ff64c47c61696d558d15d53dd799c825f22a78fd7439dcdd4da2e3886edbed1",
+        "signature": "099955bd6cf508f4dbcbb05e2e711527f5e7d4b7d7898a5dfd1fbc1ffb711811"
+      },
+      "e:/dev/chat-backend/src/galerie/dto/create-galerie.dto.ts": {
+        "version": "4c3c8d79da82c75ad81c50acdd9be5c4f1d8b31f0cfae3d57c5e76ad648b80c0",
+        "signature": "e8512eeb7a2c8c93bb4860ea5e19ae9f250025d58033e02683f7deadc7af050b"
+      },
+      "e:/dev/chat-backend/src/galerie/galerie.service.ts": {
+        "version": "66d88d1a1f899cd3be822ff149e2ab7d039b7ae6818f9acce782e66ba30bf52a",
+        "signature": "a93666d2431d53e623d7b67e488a1e270bd2bed34de75439e98affa4d75230c4"
+      },
+      "e:/dev/chat-backend/src/galerie/galerie.controller.ts": {
+        "version": "56b68d3b5f796a911775cbd851af9f1d0219dedace0e2a12e6c4dab4575de486",
+        "signature": "899765e0f99b133bb3429368a481d690abe0955926cc3e40ae1bc81f48959eba"
+      },
+      "e:/dev/chat-backend/src/galerie/schema/galerie.schema.ts": {
+        "version": "5c99c0941bfecc8b70e04d429e5c97c48bd1adc568b93b2ddd53d59488a33af5",
+        "signature": "75c98f17e5f378a51081c30003106c5396dcdb79e6a4f2e08f6fc25acc4d8dd1"
+      },
+      "e:/dev/chat-backend/src/galerie/galerie.module.ts": {
+        "version": "59cdfb73ae8d1b2555f3a13d4ae7a2f7bf82e83563aa0f750b5b108000b13704",
+        "signature": "79e02aa6d13cdcdaf7d166c2effa3a79325c6ed3ec5e3e18165a288d81444e02"
+      },
       "e:/dev/chat-backend/src/app.module.ts": {
-        "version": "4cd78b743297baedab31b85d1088af9ef5824e2ad067ad773c2c7b32e4064491",
+        "version": "e631c4d1c52200c6c7619e30012a8abe729fc00814df950f55b4fe363635553e",
         "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88"
       },
       "e:/dev/chat-backend/src/main.ts": {
@@ -9934,6 +9958,59 @@
         "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
         "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "e:/dev/chat-backend/src/galerie/interface/galerie.interface.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/galerie/dto/create-galerie.dto.ts": [
+        "e:/dev/chat-backend/node_modules/type-graphql/dist/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/galerie/galerie.service.ts": [
+        "e:/dev/chat-backend/node_modules/@nestjs/common/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@nestjs/mongoose/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts",
+        "e:/dev/chat-backend/src/galerie/interface/galerie.interface.ts",
+        "e:/dev/chat-backend/src/galerie/dto/create-galerie.dto.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/galerie/galerie.controller.ts": [
+        "e:/dev/chat-backend/node_modules/@nestjs/common/index.d.ts",
+        "e:/dev/chat-backend/src/galerie/galerie.service.ts",
+        "e:/dev/chat-backend/src/galerie/interface/galerie.interface.ts",
+        "e:/dev/chat-backend/src/galerie/dto/create-galerie.dto.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/galerie/schema/galerie.schema.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "e:/dev/chat-backend/src/galerie/galerie.module.ts": [
+        "e:/dev/chat-backend/node_modules/@nestjs/common/index.d.ts",
+        "e:/dev/chat-backend/src/galerie/galerie.controller.ts",
+        "e:/dev/chat-backend/src/galerie/galerie.service.ts",
+        "e:/dev/chat-backend/node_modules/@nestjs/mongoose/index.d.ts",
+        "e:/dev/chat-backend/src/galerie/schema/galerie.schema.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
+        "e:/dev/chat-backend/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "e:/dev/chat-backend/src/app.module.ts": [
         "e:/dev/chat-backend/node_modules/@nestjs/common/index.d.ts",
         "e:/dev/chat-backend/src/app.controller.ts",
@@ -9946,6 +10023,7 @@
         "e:/dev/chat-backend/src/users/users.module.ts",
         "e:/dev/chat-backend/src/messages/messages.module.ts",
         "e:/dev/chat-backend/src/favories/favories.module.ts",
+        "e:/dev/chat-backend/src/galerie/galerie.module.ts",
         "e:/dev/chat-backend/node_modules/@types/node/fs.d.ts",
         "e:/dev/chat-backend/node_modules/@types/node/ts3.2/fs.d.ts",
         "e:/dev/chat-backend/node_modules/@types/node/util.d.ts",
@@ -17341,6 +17419,22 @@
       "e:/dev/chat-backend/src/favories/schemas/favories.schema.ts": [
         "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts"
       ],
+      "e:/dev/chat-backend/src/galerie/interface/galerie.interface.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts"
+      ],
+      "e:/dev/chat-backend/src/galerie/galerie.service.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts",
+        "e:/dev/chat-backend/src/galerie/interface/galerie.interface.ts",
+        "e:/dev/chat-backend/src/galerie/dto/create-galerie.dto.ts"
+      ],
+      "e:/dev/chat-backend/src/galerie/galerie.controller.ts": [
+        "e:/dev/chat-backend/src/galerie/galerie.service.ts",
+        "e:/dev/chat-backend/src/galerie/interface/galerie.interface.ts",
+        "e:/dev/chat-backend/src/galerie/dto/create-galerie.dto.ts"
+      ],
+      "e:/dev/chat-backend/src/galerie/schema/galerie.schema.ts": [
+        "e:/dev/chat-backend/node_modules/@types/mongoose/index.d.ts"
+      ],
       "e:/dev/chat-backend/src/favories/favories.resolver.ts": [
         "e:/dev/chat-backend/src/favories/favories.service.ts"
       ],
@@ -19362,6 +19456,12 @@
       "e:/dev/chat-backend/src/favories/favories.service.ts",
       "e:/dev/chat-backend/src/favories/favories.controller.ts",
       "e:/dev/chat-backend/src/favories/schemas/favories.schema.ts",
+      "e:/dev/chat-backend/src/favories/favories.module.ts",
+      "e:/dev/chat-backend/src/galerie/interface/galerie.interface.ts",
+      "e:/dev/chat-backend/src/galerie/dto/create-galerie.dto.ts",
+      "e:/dev/chat-backend/src/galerie/galerie.controller.ts",
+      "e:/dev/chat-backend/src/galerie/schema/galerie.schema.ts",
+      "e:/dev/chat-backend/src/galerie/galerie.module.ts",
       "e:/dev/chat-backend/src/app.module.ts",
       "e:/dev/chat-backend/src/main.ts",
       "e:/dev/chat-backend/src/favories/favories.resolver.ts",
@@ -19514,7 +19614,7 @@
       "e:/dev/chat-backend/node_modules/@types/webpack-sources/node_modules/source-map/source-map.d.ts",
       "e:/dev/chat-backend/node_modules/@types/webpack-sources/index.d.ts",
       "e:/dev/chat-backend/node_modules/@types/webpack/index.d.ts",
-      "e:/dev/chat-backend/src/favories/favories.module.ts"
+      "e:/dev/chat-backend/src/galerie/galerie.service.ts"
     ]
   },
   "version": "3.4.5"
