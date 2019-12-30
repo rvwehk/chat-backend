@@ -28,8 +28,8 @@ let FavoriesService = class FavoriesService {
         }
     }
     async createFavories(favo) {
-        const favories = new this.favoriesModel(favo);
-        return await favories.save();
+        const newFavories = new this.favoriesModel(favo);
+        return await newFavories.save();
     }
 };
 FavoriesService = __decorate([

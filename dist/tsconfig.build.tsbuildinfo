@@ -3002,7 +3002,7 @@
         "signature": "4808ee89615757301f58145b9a9cd03aefb05db416efca2581369c9c4a5f88f2"
       },
       "e:/dev/chat-backend/src/favories/favories.service.ts": {
-        "version": "dcd8addd5dbcc12c47d959fed43099d6fe4aec4ea39783e353e12ce73d43db69",
+        "version": "5f22210c0e6a8c226bd187ba9451d801361891ed72e6aa663bf870549609c1a5",
         "signature": "de0e158f32cd034ae4c311f8c6dec3611bde8f05ae549caf346784271d7ce45c"
       },
       "e:/dev/chat-backend/src/favories/favories.controller.ts": {
@@ -19454,11 +19454,10 @@
       "e:/dev/chat-backend/src/favories/interface/favories.interface.ts",
       "e:/dev/chat-backend/src/favories/dto/create-favories.dto.ts",
       "e:/dev/chat-backend/src/favories/favories.service.ts",
-      "e:/dev/chat-backend/src/favories/favories.controller.ts",
       "e:/dev/chat-backend/src/favories/schemas/favories.schema.ts",
-      "e:/dev/chat-backend/src/favories/favories.module.ts",
       "e:/dev/chat-backend/src/galerie/interface/galerie.interface.ts",
       "e:/dev/chat-backend/src/galerie/dto/create-galerie.dto.ts",
+      "e:/dev/chat-backend/src/galerie/galerie.service.ts",
       "e:/dev/chat-backend/src/galerie/galerie.controller.ts",
       "e:/dev/chat-backend/src/galerie/schema/galerie.schema.ts",
       "e:/dev/chat-backend/src/galerie/galerie.module.ts",
@@ -19614,7 +19613,8 @@
       "e:/dev/chat-backend/node_modules/@types/webpack-sources/node_modules/source-map/source-map.d.ts",
       "e:/dev/chat-backend/node_modules/@types/webpack-sources/index.d.ts",
       "e:/dev/chat-backend/node_modules/@types/webpack/index.d.ts",
-      "e:/dev/chat-backend/src/galerie/galerie.service.ts"
+      "e:/dev/chat-backend/src/favories/favories.controller.ts",
+      "e:/dev/chat-backend/src/favories/favories.module.ts"
     ]
   },
   "version": "3.4.5"

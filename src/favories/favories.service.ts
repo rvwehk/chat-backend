@@ -31,9 +31,9 @@ export class FavoriesService {
             // }
         // } else {
 
-            const favories = new this.favoriesModel(favo);
+            const newFavories = new this.favoriesModel(favo);
             // try {
-                return await favories.save();
+                return await newFavories.save();
             // } catch (error) {
                 // throw new BadRequestException();
             // }
